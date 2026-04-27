@@ -1,0 +1,17 @@
+# Core data stack
+numpy==1.23.5
+pandas==2.2.1
+pyarrow==11.0.0
+
+# Optimization and ML
+scipy==1.13.1
+scikit-learn==1.4.2
+
+# Data download utility
+requests==2.31.0
+
+# Notebook and plotting workflow
+jupyterlab==4.0.11
+notebook==7.0.8
+ipykernel==6.28.0
+matplotlib==3.8.4
